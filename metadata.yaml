@@ -1,0 +1,31 @@
+_repo: Csak--gy...Versek-1918-20._38461
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reményik, Sándor
+    aliases:
+    - Végvári
+    - Remenyik, Sandor
+    - Vegvari
+    birthdate: 1890
+    deathdate: 1941
+    gutenberg_agent_id: '39483'
+    url: http://www.gutenberg.org/2009/agents/39483
+    wikipedia: http://hu.wikipedia.org/wiki/Rem%C3%A9nyik_S%C3%A1ndor
+description: ''
+gutenberg_issued: '2012-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38461'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian poetry'
+- !lcc 'PH'
+title: 'Csak így... : Versek, 1918-20.'
+url: http://www.gutenberg.org/ebooks/38461
